@@ -1,4 +1,4 @@
-# Intel Hackintosh - Opencore EFI for GIGABYTE H310M H 2.0 i5-9400F
+# Intel Hackintosh - Opencore EFI for GIGABYTE H310M H 2.0 i5-9400
 ![](1.jpg)
 
 ## Specification
